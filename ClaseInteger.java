@@ -1,6 +1,6 @@
 
 
-public class test {
+public class ClaseInteger {
 
 public static void main(String args[]) {
 		
